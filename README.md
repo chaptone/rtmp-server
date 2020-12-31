@@ -1,0 +1,2 @@
+# rtmp-server
+yarn start
